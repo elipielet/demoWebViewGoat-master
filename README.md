@@ -1,7 +1,7 @@
 WebViewGoat
 ===========
 
-This is an Android application designed to read QRCodes that contain web links. small change
+This is an Android application designed to read QRCodes that contain web links. small change, another small change
 
 For now it works only using the device camera but in the future it will read
 QRCodes from the filesystem. The result is loaded in a WebView.
